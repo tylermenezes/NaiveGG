@@ -70,5 +70,4 @@ I marked tweets as OK if they seemed to be a genuine criticism, namely if they:
 - Did not include ad hominem attacks, and
 - Otherwise used reasonable language
 
-If it was a tough call, or the tweet didn't have enough context, I marked it as neutral. Neutral tweets are only
-included in the testing set, not the training set.
+If it was a tough call, or the tweet didn't have enough context, I marked it for exclusion from the training set.
