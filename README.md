@@ -40,8 +40,13 @@ The tool was able to correctly identify 66% of harassing tweets as harassment. O
 correctly, with an 8% false-positive rate.
 
 Is that a great success? While I wouldn't directly put this tool into production, I think this was a success. This tool
-shows that even an extremely naïve system is able to do a decent job of filtering harassment. Several improvements can
-be made to dramatically increase the detection success rate and reduce the number of false positives:
+shows that even an extremely naïve system is able to do a decent job of filtering harassment.
+
+Obviously, Twitter couldn't use this to block anyone accused of sending a harassing tweet, but an improved version
+could be used to identify serial harassers, and as a tool to hide suspected harassing tweets from high-profile targets.
+
+Several improvements can be made to dramatically increase the detection success rate and reduce the number of false
+positives:
 
 - Increase the corpus size
 - Create a per-user harassment score, and include that in the tweet's harassment score (many harassing tweets were from repeat offenders)
