@@ -1,0 +1,7 @@
+getch==1.0
+oauthlib==1.0.3
+peewee==2.8.0
+python-twitter==2.2
+requests==2.9.1
+requests-oauthlib==0.6.1
+Reverend==0.4
