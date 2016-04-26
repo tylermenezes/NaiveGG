@@ -72,5 +72,3 @@ I marked tweets as OK if they seemed to be a genuine criticism, namely if they:
 
 If it was a tough call, or the tweet didn't have enough context, I marked it as neutral. Neutral tweets are only
 included in the testing set, not the training set.
-
-## Ingestion Process
